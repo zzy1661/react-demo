@@ -6,6 +6,7 @@ class Index extends Component {
       return (
         <div >
              Index
+             
         </div>
       );
     }
